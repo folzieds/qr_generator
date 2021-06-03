@@ -1,7 +1,6 @@
-package com.phos.qr.models;
+package com.phos.qr.apiModels;
 
-public class QRImageData {
-
+public class QrRequestData {
     private String name;
 
     private double amount;
